@@ -44,16 +44,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/serving-tech/moses.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd portfolio
-   ```
-3. Open `index.html` in your browser.
+   
+2. Open `index.html` in your browser.
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-Feel free to fork and customize this portfolio to showcase your work! 🚀
 
